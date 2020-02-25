@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/younggie/pspd-layout.git/static/css/main.08645985.chunk.css",
+    "main.js": "/younggie/pspd-layout.git/static/js/main.a23069cb.chunk.js",
+    "main.js.map": "/younggie/pspd-layout.git/static/js/main.a23069cb.chunk.js.map",
+    "runtime-main.js": "/younggie/pspd-layout.git/static/js/runtime-main.17e99042.js",
+    "runtime-main.js.map": "/younggie/pspd-layout.git/static/js/runtime-main.17e99042.js.map",
+    "static/js/2.7ac45a5f.chunk.js": "/younggie/pspd-layout.git/static/js/2.7ac45a5f.chunk.js",
+    "static/js/2.7ac45a5f.chunk.js.map": "/younggie/pspd-layout.git/static/js/2.7ac45a5f.chunk.js.map",
+    "index.html": "/younggie/pspd-layout.git/index.html",
+    "precache-manifest.6d772a19bdabed283b2d323d7f3ab2ff.js": "/younggie/pspd-layout.git/precache-manifest.6d772a19bdabed283b2d323d7f3ab2ff.js",
+    "service-worker.js": "/younggie/pspd-layout.git/service-worker.js",
+    "static/css/main.08645985.chunk.css.map": "/younggie/pspd-layout.git/static/css/main.08645985.chunk.css.map",
+    "static/js/2.7ac45a5f.chunk.js.LICENSE.txt": "/younggie/pspd-layout.git/static/js/2.7ac45a5f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/younggie/pspd-layout.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17e99042.js",
+    "static/js/2.7ac45a5f.chunk.js",
+    "static/css/main.08645985.chunk.css",
+    "static/js/main.a23069cb.chunk.js"
+  ]
+}
